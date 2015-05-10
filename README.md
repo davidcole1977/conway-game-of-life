@@ -4,11 +4,11 @@ Having attended a [Javascript Code Retreat](http://jscoderetreat.com/), which in
 
 The current version is not fully tested, but does have *just* enough tests to confirm it works without a graphical user interface (GUI).
 
-It's a first attempt and I'm not comfortable with passing the parent world object to each cell as an argument, and I'm also not comfortable with the presence of functions that purely exist to make testing easier. The tests are also far from exhaustive and the application is more fragile than it could be.
+It's a first attempt and I'm not comfortable with passing the parent world object to each cell as an argument, and I'm also not comfortable with the presence of functions that purely exist to make testing easier. The tests far from exhaustive and the application is more fragile than it could be.
 
 I'm sure it could be greatly improved upon, but it does appear to work.
 
-I plan to add a graphical user interface using HTML <canvas>.
+I plan to add a graphical user interface using SVG and [Ractive.js](http://www.ractivejs.org/)
 
 ## Development
 
